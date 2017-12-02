@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-04-04 11:26:48</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>9ff5b9e7db713200856dd421cf961984</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_93918_good_frida_good_friday_appeal_accreditation_table.x_93918_good_frida.user</sys_name>
+        <sys_package display_value="Good Friday Appeal Accreditation" source="x_93918_good_frida">5af53d6fdb313200856dd421cf9619fb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Good Friday Appeal Accreditation">5af53d6fdb313200856dd421cf9619fb</sys_scope>
+        <sys_security_acl display_value="x_93918_good_frida_good_friday_appeal_accreditation_table">17f5b9e7db713200856dd421cf961907</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_9ff5b9e7db713200856dd421cf961984</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-04-04 11:26:48</sys_updated_on>
+        <sys_user_role display_value="x_93918_good_frida.user" name="x_93918_good_frida.user">a2f579e7db713200856dd421cf9619fd</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
